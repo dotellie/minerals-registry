@@ -1,0 +1,8 @@
+{
+  "xr-tracker-models": {
+    "fullName": "XR Tracker Models",
+    "description": "A mineral that loads render models for your XR trackers",
+    "repo": "https://github.com/magnonellie/xr-tracker-models.git",
+    "tags": ["xr", "models"]
+  }
+}
